@@ -1,7 +1,7 @@
 # ComputerVision-with-OpenCV
 ### ComputerVision을 공부하고 OpenCV로 실습하기 
 
-## 01. SlideShow 만들기
+## 01. SlideShow 만들기 [[detail]](https://github.com/HwangToeMat/ComputerVision-with-OpenCV/tree/master/01.%20SlideShow%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 ComputerVision을 본격적으로 공부하기전 OpenCV사용법을 익히기위해 슬라이드쇼 기능을 구현해보기
 
 <details>
